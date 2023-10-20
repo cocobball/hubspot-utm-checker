@@ -2,7 +2,7 @@
 
 ## Overview
 
-Cory's UTM Extractor is a Chrome extension designed to scrape and tally specific UTM parameters from all the links on the current webpage. This tool is especially useful for digital marketers, SEO specialists, and data analysts who want to quickly gather insights into the UTM parameters like 'linkedin', 'Google Jobs Apply', and 'HubSpot'.
+Cory's UTM Extractor is a Chrome extension designed to scrape and tally specific UTM parameters from all the links on the current webpage. This tool is especially useful for digital marketers, SEO specialists, and data analysts who want to quickly gather insights into the UTM parameters
 
 ## Why This Extension?
 
