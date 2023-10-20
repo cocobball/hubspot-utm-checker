@@ -1,0 +1,1 @@
+{  "manifest_version": 2,  "name": "Corys HUBSPOT UTM Extractor",  "version": "1.0",  "permissions": ["activeTab"],  "browser_action": {    "default_popup": "popup.html"  },  "icons": { "16": "icon16.jpg", "48": "icon48.jpg", "128": "icon128.jpg" }}
